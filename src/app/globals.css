@@ -96,7 +96,8 @@ button {
   color: white;
 }
 button:hover {
-  border-color: yellow;
+  background-color: #1a1a1a90;
+  transform: scale(1.05);
 }
 button:focus,
 button:focus-visible {
